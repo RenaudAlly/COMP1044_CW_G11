@@ -10,6 +10,7 @@ Our website is not hosted on a live service such as UNMC Mercury but it can be r
 
 ### Video demonstrating Website Interface
 If for some reason you are unable to test out the website, do contact me. But if you are just curious, you can see the video below to see how it is intended to work:
+
 https://user-images.githubusercontent.com/77428502/164909563-7e57c72a-2adc-4d6f-8435-e2b116a2b0ff.mp4
 
 ### Contact Us

@@ -1,6 +1,21 @@
-# Group-11-s-Library-System
-Coursework submission for COMP1044: Databases and Interfaces Coursework 2 
+# How to run our website?
+Our website is not hosted on a live service such as UNMC Mercury but it can be run on a locally hosted server using XAMPP. 
 
+### Steps
+1. Start the Apache and MySQL modules from the XAMPP Control Panel.
+2. Go to [1] http://localhost/phpmyadmin/ and import the database with the file labelled `cw2_library.sql`. It will look as shown below: 
+![image](https://user-images.githubusercontent.com/77428502/164909408-39c23674-9f24-499a-a2ed-13908c9cf036.png)
+3. After the database has been uploaded, you can start testing out the website by going to [2] http://localhost/CW2/LMSLogin.html
 
+### Video demonstrating Website Interface
+If for some reason you are unable to test out the website, do contact me. But if you are just curious, you can see the video below to see how it is intended to work: 
 https://user-images.githubusercontent.com/77428502/164896556-ce52d882-8627-4a75-b270-5c7a476041fa.mp4
+
+### Contact Us
+If you have any queries or encounter any issues while using our library system you may contact me (hcyak3@nottingham.edu.my). Thank you!
+
+
+
+
+
 
